@@ -1,0 +1,30 @@
+.mainDivUser {
+  position: absolute;
+  right: 5rem;
+  top: 9.5rem;
+}
+
+.upperMain {
+  display: flex;
+  margin-top: 1rem;
+}
+
+.mainDivUser p {
+  margin-right: 5rem;
+}
+
+.lowerMain {
+  display: flex;
+}
+
+.lowerTwo {
+  position: relative;
+  left: 1.2rem;
+}
+
+.borderforAll {
+  border: 1px solid #ffff;
+  padding: 1.3rem;
+  margin-top: 1rem;
+  width: 25rem;
+}

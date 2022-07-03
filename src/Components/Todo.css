@@ -1,0 +1,21 @@
+
+/* importing google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Text:wght@300;400;500;600;700;800;900&display=swap');
+
+.mainHeading{
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-size: 2.5rem;
+    position: absolute;
+    top: 1rem;
+    left: 2rem;
+    
+
+}
+
+
+
+.tableUp{
+    margin-top: 10rem;
+}
+
+

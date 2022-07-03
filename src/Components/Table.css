@@ -1,0 +1,43 @@
+.tableTopCustom{
+    margin-top: 7rem;
+    margin-left: 2rem;
+    width: 55rem;
+    border: solid 1px #ffff;
+    text-align: center;
+}
+
+
+.inputSearch{
+    position: relative;
+    left: 23rem;
+    top: 1.3rem;
+    color: #ffff;
+    border-color: #ffff;
+    border-radius: 10px;
+    height: 3rem;
+    width: 17rem;
+    padding: 1rem;
+}
+
+
+.greenColor{
+    color: green;
+}
+
+.redColor{
+    color: red;
+}
+
+.dontShowMe{
+    display: none;
+}
+
+
+.iconInRed{
+    color: red;
+    position: absolute;
+    right: 4.3rem;
+    top: 11.5rem;
+    cursor: pointer;
+        
+}
